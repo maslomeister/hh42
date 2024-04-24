@@ -6,6 +6,10 @@
 
 ![keyboardimage](https://github.com/maslomeister/hh42/blob/main/img/kicad_3d.png?raw=true)
 
+# Гербер файлы
+
+Скачать гербер файлы ПЦБ можно [ТУТ](https://github.com/maslomeister/hh42/blob/main/pcb/production/hh42.zip)
+
 # Стоимость сборки
 
 | Предмет                 | Цена в $ | Комментарий             | Ссылка                                           |
