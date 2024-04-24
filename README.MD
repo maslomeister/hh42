@@ -4,7 +4,7 @@
 
 Спасибо [Corne](https://github.com/foostan/crkbd) за вдохновление.
 
-![keyboardimage](placeholder)
+![keyboardimage](https://github.com/maslomeister/hh42/blob/main/img/kicad_3d.png?raw=true)
 
 # Стоимость сборки
 
@@ -21,20 +21,20 @@
 
 # Прошивка и лейаут
 
-Готовые файлы прошивки [ТУТ](placeholder), репозиторий с исходниками [ТУТ](https://github.com/maslomeister/zmk-configs)
+Готовые файлы прошивки [ТУТ](https://github.com/maslomeister/hh42/tree/main/firmwares), репозиторий с исходниками [ТУТ](https://github.com/maslomeister/zmk-configs)
 
 ### Основной слой
 
-![основной_слой](placeholder)
+![основной_слой](https://github.com/maslomeister/hh42/blob/main/img/layout1.png?raw=true)
 
 ### Lower слой
 
-![lower_слой](placeholder)
+![lower_слой](https://github.com/maslomeister/hh42/blob/main/img/layout2.png?raw=true)
 
 ### Raise слой
 
-![raise_слой](placeholder)
+![raise_слой](https://github.com/maslomeister/hh42/blob/main/img/layout3.png?raw=true)
 
 ### Combined слой (Lower+Raise)
 
-![combined_слой](placeholder)
+![combined_слой](https://github.com/maslomeister/hh42/blob/main/img/layout4.png?raw=true)
