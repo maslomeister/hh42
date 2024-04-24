@@ -21,8 +21,9 @@
 | Диоды                   | 0.85     | Цена за 100 штук        | https://aliexpress.ru/item/32849879904.html      |
 | PCM12SMTR переключатель | 4        | Цена за 5 штук          | https://aliexpress.ru/item/1005005366298406.html |
 | Reset кнопка            | 1.5      | 4.3ММ; Цена за 100 штук | https://aliexpress.ru/item/32882161197.html      |
-| Аккумулятор 110 mah     | -        | -                       | -                                                |
-| Итог за 1 клавиатуру    | **44.4** |
+| Гнезда и пины для контроллера | 1.5 | Цена за 25 гнезд и 25 пинов | https://aliexpress.ru/item/1005001607620882.html?sku_id=12000016781207014|
+| Аккумулятор 110 mah     | 4.2        | -                       | https://www.ozon.ru/product/akkumulyator-dlya-videoregistratora-akb-batareya-3-7v-130mah-5x12x30-li-pol-2-provoda-501230-1047383524                                        |
+| Итог за 1 клавиатуру    | **57.3** |
 
 # Прошивка и раскладка
 
