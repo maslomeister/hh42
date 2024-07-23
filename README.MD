@@ -4,7 +4,7 @@
 
 Спасибо [Corne](https://github.com/foostan/crkbd) за вдохновление.
 
-![keyboardimage](https://github.com/maslomeister/hh42/blob/main/img/kicad_3d.png?raw=true)
+![keyboardimage](https://github.com/maslomeister/hh42/blob/main/img/keyboard.jpg?raw=true)
 
 # Гербер файлы
 
